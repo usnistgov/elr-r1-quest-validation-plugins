@@ -43,7 +43,7 @@
 		<dependency>
 			<groupId>gov.nist</groupId>
 			<artifactId>hl7-v2-validation</artifactId>
-			<version>1.5.0</version>
+			<version>1.6.4</version>
 		</dependency>
 	</dependencies>
 	<properties>
